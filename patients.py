@@ -10,9 +10,9 @@ class patients:
         def setMiddlename(self, value):self.__middlename=value
         def setYear(self, value):self.__year=value
 
-        def getSurname(self):return self.__surname
-        def getName(self):return self.__name
-        def getMiddlename(self):return self.__middlename
-        def getYear(self):return self.year
+        def getSurname(self):return self.__Surname
+        def getName(self):return self.__Name
+        def getMiddlename(self):return self.__Middlename
+        def getYear(self):return self.Year
       
       

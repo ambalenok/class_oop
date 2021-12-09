@@ -17,9 +17,6 @@ class doctors:
         def getMiddlename(self):return self.__Middlename
         def getSpecialization(self):return self.__Specialization
         def getCategory(self):return self.__Category
-
-        s = doctors('lex','dsds',32)
-        
-        print(s)
+       
       
        
